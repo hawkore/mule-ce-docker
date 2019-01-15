@@ -18,7 +18,7 @@ FROM hawkore/openjdk:8u181
 
 MAINTAINER hawkore
 
-ENV VERSION=3.9.0
+ENV VERSION=4.0.0
 
 # install ps, required by startup script
 RUN DEBIAN_FRONTEND=noninteractive apt-get update \
