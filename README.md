@@ -11,3 +11,4 @@ Versions so far:
 | 3.9.0   |            | hawkore/openjdk:8u181 |
 | 4.0.0   |            | hawkore/openjdk:8u181 |
 | 4.1.0   |            | hawkore/openjdk:8u181 |
+| 4.1.1   |            | hawkore/openjdk:8u181 |
